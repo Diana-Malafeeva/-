@@ -7,7 +7,7 @@
 <ul dir="auto">
 
 <li>
-<a href="#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%B0">Задачи тестировщика</a>
+<a href="#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%B0">Задачи тестировщика</a> 
 </li>
 
 <li>
@@ -33,7 +33,7 @@
 
 
 
-<details open> <summary> 1-спринт </summary>
+<details> <summary> 1-спринт </summary>
 
 #### Задачи для 1 спринта
 1. Проанализировать требования к сервису Яндекс.Маршруты 1.0.
@@ -42,9 +42,7 @@
 #
 </details>
 
-<details open> <summary> 2-спринт  </summary>
-
-
+<details> <summary> 2-спринт  </summary>
 
 
 #### Задачи для 2 спринта
@@ -60,8 +58,7 @@
 #
 </details>
 
-<details open> <summary> 3-спринт  </summary>
-
+<details> <summary> 3-спринт  </summary>
 
 
   
@@ -81,7 +78,7 @@
 
 
 
-<details open> <summary> 4-спринт  </summary>
+<details> <summary> 4-спринт  </summary>
 
 #### Задачи для 4 спринта
 1. Проанализировать требования к Яндекс.Прилавок (работа с базой данных)
@@ -99,7 +96,7 @@
 
 
 
-<details open> <summary> 5-спринт  </summary>
+<details> <summary> 5-спринт  </summary>
 
 #### Задачи для 5 спринта
 
@@ -131,7 +128,7 @@
 
   
 ## Требования по проекту
-<details open> 
+<details> 
 <summary> Требования к сервису Яндекс Маршруты 1.0
 	
 **1 спринт**
@@ -245,7 +242,7 @@ t = S/V
 
 
 
-<details open> 
+<details> 
 <summary> Требования к функциональности «Каршеринг»
 
 **2 спринт**
@@ -406,7 +403,7 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 
 
 
-<details open> 
+<details> 
 <summary> Требования к фиче: аэротакси 
 
 **2 спринт**
@@ -592,7 +589,7 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 
 
 
-<details open> 
+<details> 
 <summary> Требования к мобильному приложению Яндекс.Метро версия yandexmetro-android-v3.6
 
 **3 спринт**
@@ -727,7 +724,7 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 
 
 
-<details open> 
+<details> 
 <summary> Требования к новой функциональности бэкенда Яндекс.Прилавка
 
 **3 спринт**
@@ -904,7 +901,7 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 
 
 
-<details open> 
+<details> 
 <summary> Требования к Яндекс Прилавок (работа с базой данных)  
 
 **4 спринт**
@@ -1100,7 +1097,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 
 
-<details open> 
+<details> 
   <summary> Требования к веб-приложению Яндекс.Самокат.
 
 **5 спринт**
@@ -1238,7 +1235,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 
 
-<details open> 
+<details> 
   <summary> Требования к мобильному приложению Яндекс.Самокат.
 
 **5 спринт**
@@ -1328,7 +1325,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 
 
-<details open> 
+<details> 
 <summary> Требования к бэкенду приложения Яндекс.Самокат 
 
 **5 спринт**
@@ -1468,7 +1465,16 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 # Процесс работы 
 
-# **1 спринт**
+#
+
+<details> 
+<summary> 
+
+**1 спринт**
+
+</summary>
+
+
 
 **Задача 1 (планирование тестирования)**
 
@@ -1497,36 +1503,44 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 **Задача 3 (проектирование тестовой документации)**
 ![Диана Малафеева 06 когорта - Тест-кейсы логика интерфейса](https://github.com/Diana-Malafeeva/-/assets/162698888/3b340dd5-2826-4d95-9bb7-15ae677d6553)
 
-
+#
+</details>
 
 
 #
 
-# **2 спринт**
+<details> 
+<summary> 
+
+**2 спринт**
+
+</summary>
+
+
 
 **Задача 2 (Чек-лист на верстку)**
 
 ![pictures (1)](https://github.com/Diana-Malafeeva/-/assets/162698888/21561dc3-0e4b-4136-91fb-b89b482422fd)
 
-[Тестовая документация с кликабельными ссылками на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
+[Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
 
 **Задача 3 (Чек-лист «Способ оплаты» и «Добавление карты»)**
 
 ![pictures](https://github.com/Diana-Malafeeva/-/assets/162698888/8e1d0cbe-d079-4da3-9111-e8d1d8baff5b)
 
-[Тестовая документация с кликабельными ссылками на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
+[Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
 
 **Задача 3 (Тест-кейсы на кнопку «Забронировать»)**
 
 ![pictures (2)](https://github.com/Diana-Malafeeva/-/assets/162698888/12ff3c49-3b55-482e-b07d-ba6142a5febf)
 
-[Тестовая документация с кликабельными ссылками на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
+[Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
 
 **Задача 3 (Тест-кейсы на логику бронирования)**
 
 ![pictures (4)](https://github.com/Diana-Malafeeva/-/assets/162698888/68a93f32-4220-42e0-b546-1c9e59176949)
 
-[Тестовая документация с кликабельными ссылками на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
+[Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
 
 **Задача 4 (выполнение тестов)**
 
@@ -1541,16 +1555,26 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1XkFppyOEh-FYumIx2jYWahpU8gJEUakv3army4VR1D0/edit#gid=1396138851)
 
-
+#
+</details>
 
 
 
 #
-# **3 спринт**
+
+<details> 
+<summary> 
+
+**3 спринт**
+
+</summary>
+
 
 **Задача 2 (подготовка чек-листа для тестирования мобильного приложения на часть требований, выделенных жирным шрифтом)**
 
 ![Диана Малафеева — 6-я когорта, 3-й спринт - Чек-лист_ мобильное приложение](https://github.com/Diana-Malafeeva/-/assets/162698888/69298706-ea87-42be-8dcc-8ec6a41ed7ca)
+
+[Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%203%7D)
 
 
 **Задача 3 (тестирование мобильного приложения в эмуляторе с помощью Android Studio, баг-репорты)**
@@ -1562,17 +1586,28 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 ![pictures](https://github.com/Diana-Malafeeva/-/assets/162698888/be289b01-aadc-40ca-906a-f1595997c75a)
 
+[Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%203%7D)
+
 
 **Задача 7**
 
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1kUMrxc_g4ETnI8Z0WZFfWV03ZifE-WCXMFM0itfoig0/edit#gid=857523888)
 
 
+#
+</details>
+
 
 
 #
 
-# **4 спринт**
+<details> 
+<summary> 
+
+**4 спринт**
+
+</summary>
+
 
 **Задачи**
 
@@ -1592,12 +1627,18 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 ![pictures](https://github.com/Diana-Malafeeva/-/assets/162698888/7b2e0397-91b7-4198-9627-bcf478ac12e5)
 
-
+#
+</details>
 
 
 #
 
-# **5 спринт**
+<details> 
+<summary> 
+
+**5 спринт**
+
+</summary>
 
 
 **Задача 2 (2. разработка mindmap для формы заказа самоката)**
@@ -1610,7 +1651,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 ![Диана Малафеева — диплом - Задание 2_ чек-лист (1)-01](https://github.com/Diana-Malafeeva/-/assets/162698888/88e63c1d-d294-449c-9e20-8910a05e6542)
 
-[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1BRsmyhv8nKH3p5zU0cEf-0UJL9FiD7rzQr7LMtnrd9g/edit#gid=943703744)
+[Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BДиплом%7D)
 
 
 
@@ -1618,8 +1659,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 ![pictures](https://github.com/Diana-Malafeeva/-/assets/162698888/93851bb4-ea1a-4c9f-b4b6-e8d9eb0cb709)
 
-
-[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1BRsmyhv8nKH3p5zU0cEf-0UJL9FiD7rzQr7LMtnrd9g/edit#gid=1540465171)
+[Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BДиплом%7D)
 
 
 
@@ -1627,8 +1667,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 ![Диана Малафеева — диплом - Задание 2_ баги вне тестовой документации](https://github.com/Diana-Malafeeva/-/assets/162698888/57e0702b-a917-46b6-967d-7d9f55265b01)
 
-
-[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1BRsmyhv8nKH3p5zU0cEf-0UJL9FiD7rzQr7LMtnrd9g/edit#gid=1539613303)
+[Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BДиплом%7D)
 
 
 
@@ -1643,5 +1682,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 ![Диана Малафеева — диплом - Задание 4_ чек-лист](https://github.com/Diana-Malafeeva/-/assets/162698888/57f99156-6073-468a-aab7-21ac92f8137a)
 
+[Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BДиплом%7D)
 
-[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1BRsmyhv8nKH3p5zU0cEf-0UJL9FiD7rzQr7LMtnrd9g/edit#gid=336872680)
+#
+</details>
